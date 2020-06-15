@@ -26,5 +26,8 @@
     "nodemon": "^2.0.4",
     "ts-jest": "^26.1.0",
     "typescript": "^3.9.5"
+  },
+  "engines": {
+    "node": "12.14"
   }
 }
