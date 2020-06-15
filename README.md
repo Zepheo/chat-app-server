@@ -14,4 +14,7 @@ You can set a timeout for clients so they will get disconnected after inactivity
 In the repo it's set to 600 sec( 10 minutes)
 if you want to change this change the constant 'clientTimeoutInS' in the /src/index.ts file and then rerun the 'npm run build' command
 
-
+## Tech
+  - Express
+  - Socket.io
+  - Typescript
